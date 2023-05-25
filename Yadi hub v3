@@ -8,7 +8,7 @@ local Main= Window:NewTab("Main")
 
 local MainSection = Main:NewSection("Main")
 
-MainSection:NewButton("Pet Simulator X", "Auto Farm And More", function()
+MainSection:NewButton("Pet SSimulator X", "Auto Farm And More", function()
 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua"))()
 
